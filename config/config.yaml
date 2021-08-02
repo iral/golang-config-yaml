@@ -1,0 +1,7 @@
+server:
+  port: "8080"
+database:
+  username: "my_username"
+  password: "my_password"
+  name: "my_db_name"
+  port: "5432"
